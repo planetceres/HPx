@@ -3,7 +3,7 @@
 This is a demo of a python module that allows for dynamic and interactive \
 hyperparameter tuning during model training.
 
-![demo gif](https://github.com/planeteceres/HPx/assets/HPx001.gif "HPx demo")
+![demo gif](https://github.com/planetceres/HPx/blob/master/assets/HPx001.gif "HPx demo")
 
 The module is still under development and has not been tested extensively.
 
